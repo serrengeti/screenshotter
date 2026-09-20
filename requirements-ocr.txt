@@ -1,0 +1,4 @@
+# OCR: pip install -r requirements-ocr.txt
+# First run downloads model weights (needs internet once).
+easyocr>=1.7.0
+Pillow>=9.0.0
